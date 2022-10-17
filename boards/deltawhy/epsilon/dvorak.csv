@@ -1,0 +1,255 @@
+A,O,E,I,H,T,N,S,base,left word,right word,left partials,right partials
+●,,,,,,,,a,,,,
+,●,,,,,,,o,,,,
+●,●,,,,,,,",",,,"oa, ao, ",
+,,●,,,,,,e,,,,
+●,,●,,,,,,!,,,,
+,●,●,,,,,,.,,,,
+●,●,●,,,,,,,,,,
+,,,●,,,,,i,,,,
+●,,,●,,,,,p,,,,
+,●,,●,,,,,y,,,,
+●,●,,●,,,,,,pay,,"ay, po, op, ppo, opp, poi, ayi, ya, py, oppo, pay, opi, yp, ppy, poo, appy, pop, oya, apo, oop, ",
+,,●,●,,,,,u,,,,
+●,,●,●,,,,,,up,,"pe, up, ep, au, ua, pu, ppe, pea, eep, appe, upp, ape, ppea, epa, epe, pie, eau, pape, pee, epi, ",
+,●,●,●,,,,,,you,,"ou, you, ey, ye, iou, eye, uy, oye, eyo, yee, oyee, uo, oui, eou, uou, uyi, yie, uye, oue, oyou, ",
+●,●,●,●,,,,,,pope,,"peo, eop, peop, ope, yea, oup, upo, uppo, aye, oppe, epo, pou, ype, opu, popu, poe, eapo, opea, oope, opie, ",
+,,,,●,,,,h,,,,
+●,,,,●,,,,", ",,,,
+,●,,,●,,,,b,,,,
+●,●,,,●,,,,,,,"ab, abo, oba, obab, abb, aba, aboa, oah, aho, ","ba, bab, boa, hab, hao, habb, "
+,,●,,●,,,,j,,,,
+●,,●,,●,,,,,,,"ja, eha, aj, jea, ahe, ahea, eah, ehea, aje, ","hea, hae, "
+,●,●,,●,,,,,,be,"jo, job, eb, joh, obe, obj, obje, oj, oje, eho, joe, ebo, ","be, bee, beh, bj, bje, hoe, heo, bbe, "
+●,●,●,,●,,,,,,,"ajo, abe, joa, abbe, eba, eab, eeab, abea, abee, ","bea, beha, habe, "
+,,,●,●,,,,f,,,,
+●,,,●,●,,,,,,,"af, ph, aff, phi, aph, pha, affa, affi, pf, ","fa, hap, happ, hip, fai, hai, ffa, ffai, hia, hipp, fia, "
+,●,,●,●,,,,,of,,"of, off, ib, offi, yb, ibi, ybo, ifo, ofi, oof, ","fo, by, bi, hy, foo, boy, ffo, hoi, fy, hio, "
+●,●,,●,●,,,,,,happy,"abi, pho, ayb, phy, oph, aby, pab, apab, affo, iab, ophy, aphy, ","hop, habi, baby, bay, hopi, hopp, babi, bai, "
+,,●,●,●,,,,,,,"ef, ju, ife, iffe, eff, ief, efu, uf, uff, efe, ehi, effe, ","fe, hei, fu, hu, ffe, fee, fie, hie, "
+●,,●,●,●,,,,,,,"afe, phe, eph, jap, japa, affe, ephe, efea, eaf, ufa, pfu, jai, uph, pef, ","fea, hape, hau, heap, fau, heep, "
+,●,●,●,●,,,,,joy,buy,"ub, efo, offe, oub, ibe, joy, ybe, joi, ubj, ubje, ","bu, hou, hey, bou, fou, bef, befo, bei, bui, behi, "
+●,●,●,●,●,,,,,yeah,hope,,
+,,,,,●,,,t,,,,
+●,,,,,●,,,(,,,,
+,●,,,,●,,,w,,,,
+●,●,,,,●,,,,,,"aw, awa, owa, oat, ato, ota, otta, atto, otat, atoo, awo, aot, ","wa, wat, towa, tota, twa, tato, toa, "
+,,●,,,●,,,c,,,,
+●,,●,,,●,,,,act,tea,"ac, ate, eat, act, ace, eca, eac, atte, acc, eate, atc, eta, acte, acce, ","ca, tea, cat, tate, tac, cate, "
+,●,●,,,●,,,,,we,"ew, oc, owe, eco, ote, etw, etwe, oce, occ, oct, octo, otte, ","co, we, wee, twe, twee, cto, cco, coo, "
+●,●,●,,,●,,,,,coat,"acco, oac, oca, occa, ewa, acto, ocat, awe, ocea, eato, aco, ","wea, watc, wate, coa, weat, coat, coac, coca, cato, "
+,,,●,,●,,,k,,,,
+●,,,●,,●,,,,pat,tip,"ati, ak, pt, ita, aki, pat, ait, iat, apt, ka, pti, pit, pati, pta, itat, ","tak, tai, tia, tati, taki, "
+,●,,●,,●,,,,,took,"ok, ook, ity, itio, yt, oti, owi, oki, ooki, otio, yw, ky, ito, ","wi, wit, tio, ty, took, tty, twi, "
+●,●,,●,,●,,,,away,way,"atio, away, pow, ptio, pot, pok, opt, oka, kay, okay, pty, ywa, ","way, top, wai, wait, tay, typ, topp, wak, "
+,,●,●,,●,,,,ice,cut,"ut, ic, ke, uc, ike, ice, ite, ick, eci, ecti, ute, eti, ici, ","tu, ck, ci, cu, cti, tic, tie, "
+●,,●,●,,●,,,,put,take,"ake, ack, ica, pec, ecau, acti, ept, put, pect, atu, eak, pic, aut, ","cau, take, cia, tua, cap, cep, cept, "
+,●,●,●,,●,,,,out,,"out, oke, ock, ooke, yet, oic, oice, oci, iew, utio, ety, ","cou, wou, ctio, cy, city, week, cio, ciou, tou, "
+●,●,●,●,,●,,,,pocket,type,,
+,,,,●,●,,,d,,,,
+●,,,,●,●,,,,,that,"ad, ath, add, ada, atth, ","hat, tha, that, had, da, dat, dad, data, hatt, dha, ddha, hda, thda, hath, dadd, "
+,●,,,●,●,,,,,who,"oth, od, ood, odd, owd, ","wh, do, tho, who, how, dow, bot, bod, both, doo, hot, tood, bt, wd, tod, "
+●,●,,,●,●,,,,,what,"oad, ado, oda, adow, obta, atho, ","wha, what, tab, bat, bad, batt, toda, boat, dwa, hado, daw, bath, bta, tba, "
+,,●,,●,●,,,,,the,"ed, eth, eed, ethe, jec, ject, ","the, de, ch, ted, ded, che, hed, tch, ced, dec, cted, ched, dde, dee, "
+●,,●,,●,●,,,,each,head,"ead, ach, ade, each, athe, ated, eath, atch, ache, eade, jac, aced, ","cha, dea, head, tead, hate, deat, dead, date, "
+,●,●,,●,●,,,,object,bed,"othe, owed, ode, ojec, ","whe, bec, bet, cho, wed, doe, choo, betw, bed, beco, bett, howe, bjec, whet, doc, doct, "
+●,●,●,,●,●,,,,,watch,,
+,,,●,●,●,,,,,did,"id, ith, ift, idd, ithi, kid, idi, ","di, thi, ft, did, dif, diff, hit, dit, tif, diti, fit, ddi, fift, "
+●,,,●,●,●,,,,paid,fat,"aid, aft, adi, ida, path, addi, paid, pid, adit, aith, ","fat, fath, dia, hapt, diat, taf, taff, hak, dai, fait, "
+,●,,●,●,●,,,,,with,"yth, ythi, itho, ody, othi, oft, ","with, whi, dy, why, body, book, bit, whit, doi, thy, wif, food, wid, foot, "
+●,●,,●,●,●,,,,,day,,
+,,●,●,●,●,,,,effect,feet,"ide, ich, ked, uch, ud, ied, edi, ethi, uth, ","thei, hic, hich, du, fte, chi, fic, ffic, die, duc, tud, "
+●,,●,●,●,●,,,,idea,face,,
+,●,●,●,●,●,,,,,but,,
+●,●,●,●,●,●,,,,about,back,,
+,,,,,,●,,n,,,,
+●,,,,,,●,,',,,,
+,●,,,,,●,,q,,,,
+●,●,,,,,●,,,,,"on', ona, ano, anno, o', oan, onna, onan, aq, anon, 'no, oan', 'o, anq, ","noa, "
+,,●,,,,●,,v,,,,
+●,,●,,,,●,,,anne,van,"av, ave, e', ean, eav, ane, 'v, 've, eave, anne, en', ena, aven, eva, ava, ","va, nea, van, ne', nav, "
+,●,●,,,,●,,,one,,"one, ov, ove, eq, eno, onv, eon, eone, onve, onne, evo, onen, eov, ","vo, nov, nvo, none, nove, nnov, von, "
+●,●,●,,,,●,,,,,"avo, one', ova, aneo, eano, eavo, oe', eona, oane, ovna, ","nova, "
+,,,●,,,●,,x,,,,
+●,,,●,,,●,,,pain,,"ain, xp, i', ina, ian, ani, pan, pin, xa, pain, ppin, pani, aini, ax, anin, inan, xan, apan, anx, ","nia, "
+,●,,●,,,●,,,,,"ion, oin, yin, yon, oni, ox, yn, iq, ony, inno, iny, inio, ino, ","ny, nio, nion, nyo, nyon, nny, niq, "
+●,●,,●,,,●,,,any,,"any, pon, iona, poin, y', ayin, pany, anyo, opin, apon, anio, xpo, yan, onia, any', ay', iano, yna, ppon, ","ny', "
+,,●,●,,,●,,,iv,nine,"un, iv, ive, ex, ine, ien, ivi, uni, ein, eni, inu, iev, inv, evi, ieve, ","vi, vin, nu, vie, nex, "
+●,,●,●,,,●,,,i've,,"pen, exp, xpe, expe, avi, u', exa, avin, aine, ppen, pene, iva, i'v, i've, pine, epen, aun, una, eani, eavi, ",
+,●,●,●,,,●,,,queen,,"oun, qu, qui, que, equ, ovi, youn, enou, yone, oney, equi, eque, quen, ovin, ovie, ","nou, ney, vio, voi, viou, "
+●,●,●,●,,,●,,,upon,,,
+,,,,●,,●,,g,,,,
+●,,,,●,,●,,,,hang,"ag, ang, aga, anag, agg, agn, agan, ","ga, han, gan, hang, nag, gna, gag, nha, nga, ngag, g', ng', gang, "
+,●,,,●,,●,,,,go,"ong, og, ohn, ogn, oog, ","go, goo, hon, gon, nob, bon, gno, gho, ghb, ghbo, hono, nobo, nb, goog, hno, "
+●,●,,,●,,●,,,ago,bag,"ago, onab, aban, agon, oga, ogan, onag, 'b, ohn', 'oh, ","ban, goa, nab, bag, ho', gab, nhab, bona, bagh, noah, "
+,,●,,●,,●,,,,,"eg, eng, ege, enj, enge, egg, egen, ","ge, hen, nge, gen, gene, gge, ghe, nj, gne, neg, hene, veh, nhe, "
+●,,●,,●,,●,,,,have,"age, ange, ega, egan, eag, ehav, agen, jan, enga, jean, jane, ","hav, have, he', gav, gave, nage, heav, gage, vag, "
+,●,●,,●,,●,,,,been,"oge, onge, john, enjo, ego, obv, ","been, beg, ben, hone, gone, gov, njo, bov, bove, gove, bene, geo, bv, goe, "
+●,●,●,,●,,●,,,above,began,,
+,,,●,●,,●,,,,high,"ing, ig, igh, ign, inf, ","hin, hing, gi, ning, fin, gin, nf, nig, nigh, hig, high, fig, ging, ngi, ngin, "
+●,,,●,●,,●,,,again,,"agai, ping, agi, agin, aig, iga, iag, aigh, pag, angi, igna, aign, ","gai, gain, fina, gani, fan, gina, nfa, gia, "
+,●,,●,●,,●,,,,going,"ying, oing, onf, info, onfi, ogni, ogi, igio, igno, ogy, ighb, ","goi, goin, big, gy, nfo, bin, gio, bing, box, "
+●,●,,●,●,,●,,,paying,hoping,,
+,,●,●,●,,●,,,evening,give,"ug, ugh, eing, ung, eig, egi, eigh, ugg, ehin, egin, ","gu, ving, giv, give, hun, gue, fiv, five, fun, gine, "
+●,,●,●,●,,●,,,,having,,
+,●,●,●,●,,●,,,enough,being,,
+●,●,●,●,●,,●,,,phone,heavy,,
+,,,,,●,●,,r,,,,
+●,,,,,●,●,,,art,ran,"ar, 't, ant, art, arr, 'r, arn, ara, ","ra, n't, tra, tan, rat, ran, t', tar, nat, rta, nta, tant, "
+,●,,,,●,●,,,or,not,"or, own, ort, ont, oor, orn, ","ro, not, wor, now, wn, nto, tor, ron, tro, row, roo, wr, nor, ton, "
+●,●,,,,●,●,,,,want,"on't, aro, anot, orta, ora, owar, onta, oar, orwa, awar, orat, awn, ","war, wan, want, roa, raw, rwa, rwar, won', "
+,,●,,,●,●,,,ever,never,"er, ere, ent, ever, enc, ence, ","re, ver, nc, ter, nce, cr, nte, ten, rc, ren, ree, ner, rec, tter, "
+●,,●,,,●,●,,,are,can,"ear, are, anc, ance, era, ater, 're, arc, erat, ante, earn, ","rea, can, reat, car, rac, rate, crea, ract, care, "
+,●,●,,,●,●,,,over,were,"ore, over, onc, once, ower, orc, econ, ","wer, con, were, new, cont, wen, went, cor, cro, rov, ween, conc, rew, "
+●,●,●,,,●,●,,,aware,water,,
+,,,●,,●,●,,,,tin,"ir, int, kin, kn, ink, xt, ","ri, tin, rk, rin, nti, nk, rit, tri, rri, rti, nit, rni, ttin, rnin, "
+●,,,●,,●,●,,,part,,"pr, par, part, pri, air, ari, ark, it', arri, arti, akin, ank, ","rai, tain, rati, rp, ria, rain, trai, nati, "
+,●,,●,,●,●,,,into,work,"kno, into, ork, know, ori, ory, oint, owin, ","tion, ry, work, win, try, rio, rry, tory, rty, wri, ntio, writ, "
+●,●,,●,,●,●,,,point,,,
+,,●,●,,●,●,,,,next,"ur, eir, ure, eri, unt, ire, inc, inte, urn, enti, ","ru, tur, rie, tiv, ric, ture, rien, tru, tive, turn, "
+●,,●,●,,●,●,,,experience,taken,,
+,●,●,●,,●,●,,,your,very,,
+●,●,●,●,,●,●,,,you're,,,
+,,,,●,●,●,,,,dr,,"nd, ght, rd, gr, dr, hr, thr, rg, dn, rth, dg, nth, rh, ndr, gt, ngt, ngr, gth, ngth, ddr, "
+●,,,,●,●,●,,,and,,"and, ard, 'd, arg, ","har, than, dn', dn't, gra, hand, tand, hat', rad, hard, dar, dan, nda, gar, dra, rang, "
+,●,,,●,●,●,,,,down,"ord, ond, org, ","br, don, hro, thro, noth, down, good, bro, gro, got, hor, rob, word, bor, rod, door, ndo, "
+●,●,,,●,●,●,,,,don't,,
+,,●,,●,●,●,,,,her,"end, ered, ","her, ther, here, red, der, ned, nde, get, then, gre, den, nder, ger, ved, dre, rge, nted, rned, "
+●,,●,,●,●,●,,,,great,,
+,●,●,,●,●,●,,,other,when,,
+●,●,●,,●,●,●,,,another,wanted,,
+,,,●,●,●,●,,,kind,think,"ight, ind, king, idn, ","fr, thin, ting, din, ding, ring, fir, ndi, rig, hink, righ, fri, rf, didn, ndin, find, "
+●,,,●,●,●,●,,,i'd,didn't,,
+,●,,●,●,●,●,,,,for,,
+●,●,,●,●,●,●,,,anything,brain,,
+,,●,●,●,●,●,,,,their,,
+●,,●,●,●,●,●,,,after,father,,
+,●,●,●,●,●,●,,,often,before,,
+●,●,●,●,●,●,●,,,around,group,,
+,,,,,,,●,s,,,,
+●,,,,,,,●,-,,,,
+,●,,,,,,●,←,,so,"os, oss, oos, oso, ","so, soo, sso, "
+●,●,,,,,,●,,,,"aso, asso, oas, o-, osa, ossa, aos, ","soa, so-, -o, "
+,,●,,,,,●,),,,,
+●,,●,,,,,●,,ease,sea,"eas, ase, asse, ease, essa, esea, ases, easa, e-, eass, e-a, ","sea, seas, -e, -se, -es, "
+,●,●,,,,,●,,,,"ose, oes, osse, oose, eso, esso, oses, eos, ","soe, "
+●,●,●,,,,,●,,,,"easo, ",
+,,,●,,,,●,?,,,,
+●,,,●,,,,●,,pass,,"ps, pas, asi, pass, assi, aps, ais, ips, isa, isp, asp, isap, ","sp, sai, spi, spa, sia, sap, sapp, ssia, "
+,●,,●,,,,●,,,,"ys, osi, ossi, isio, iso, ysi, oys, ois, ios, ysis, iosi, yos, yoss, oosi, osio, ","sio, sy, ssio, sys, ssy, "
+●,●,,●,,,,●,,,say,"pos, ays, poss, posi, ppos, asy, osp, asio, ops, y-, psy, ospi, oops, opos, osop, ","say, spo, says, sayi, sop, "
+,,●,●,,,,●,,us,,"us, use, ies, ise, usi, esi, ues, essi, esu, uss, usu, uis, ussi, uses, ","su, ssu, sus, sui, sue, sie, "
+●,,●,●,,,,●,,pause,spies,"aus, ause, esp, espe, asu, usa, usua, easi, easu, aise, assu, pus, ups, ","spe, sup, supp, sua, spea, sep, spee, "
+,●,●,●,,,,●,,eyes,,"ous, ious, yes, ouse, eyes, yse, usio, usy, uys, esou, yees, oise, ouis, ousi, eous, eys, uous, osu, ","sou, sey, "
+●,●,●,●,,,,●,,easy,suppose,,
+,,,,●,,,●,m,,,,
+●,,,,●,,,●,,am,has,"am, ash, ama, ams, amm, aham, asm, asha, ","ma, has, sha, sam, sma, mas, ham, mma, mass, sham, -m, -ma, "
+,●,,,●,,,●,,,mom,"om, omm, oom, obs, ommo, omb, ","mo, som, sho, mb, mos, hos, hom, bs, mom, mmo, sb, moo, bos, smo, "
+●,●,,,●,,,●,,obama,,"oma, amo, amb, omma, abs, abso, omas, obam, amba, omba, ","bas, sba, mba, bass, mbas, homa, bam, bama, hamb, -b, "
+,,●,,●,,,●,,,she,"em, eme, eem, ems, eeme, emem, emse, eems, ","me, she, hem, hes, mes, hese, mse, seem, mem, mme, mee, hems, "
+●,,●,,●,,,●,,,same,"ame, ema, eam, ames, jam, eams, jame, ashe, amme, eame, emma, e-m, e-ma, ","mea, same, maj, hame, meas, hase, mae, "
+,●,●,,●,,,●,,,some,"ome, emb, embe, emo, omeo, omes, obse, omme, jobs, ","some, hose, mbe, home, bes, memb, mome, meo, bse, memo, semb, "
+●,●,●,,●,,,●,,,base,,
+,,,●,●,,,●,,,his,"im, ish, ims, imi, imm, ism, isf, ","his, mi, him, shi, mis, hims, sim, miss, smi, sf, mmi, mf, fis, "
+●,,,●,●,,,●,,aim,ship,"imp, ami, ima, amp, aim, ashi, iam, pm, ","mp, mpa, fam, fami, mai, ship, simp, fas, haps, saf, hips, -f, "
+,●,,●,●,,,●,,,my,"omi, ym, omis, ommi, omf, omfo, imb, ","my, sib, ssib, mys, mbi, hys, sof, hysi, mfo, sibi, boys, sym, shio, "
+●,●,,●,●,,,●,,,may,,
+,,●,●,●,,,●,,jim,museum,"ime, um, jus, imes, imse, ishe, ume, ush, emi, umm, imme, ","mu, mus, sum, hus, hum, mmu, fes, suf, suff, "
+●,,●,●,●,,,●,,push,safe,,
+,●,●,●,●,,,●,,,house,,
+●,●,●,●,●,,,●,,,maybe,,
+,,,,,●,,●,z,,,,
+●,,,,,●,,●,,,sat,"ast, az, ats, asta, asts, azz, ","sta, stat, sat, tas, za, zat, -t, tast, t-, sast, t-s, t-t, zza, tsta, "
+,●,,,,●,,●,,,,"ost, ows, ots, oz, oots, osts, osto, otos, otst, ","sto, ws, sw, stoo, tos, swo, zo, wso, toss, tso, stot, "
+●,●,,,,●,,●,,,was,"aws, oast, oats, awso, asto, atso, ","was, saw, to-, swa, wast, -tw, -two, -to, -to-, wats, toas, -w, -wo, sota, "
+,,●,,,●,,●,,,set,"est, esc, ets, este, ects, eces, ","ste, sc, ces, tes, ze, sec, cess, set, cts, cces, test, cs, tse, sett, "
+●,,●,,,●,,●,,east,case,"east, ates, aste, esta, aces, aze, acts, esca, eats, asc, ","cas, case, sca, stea, ccas, seat, sac, cast, -c, stac, "
+,●,●,,,●,,●,,,west,"ews, oces, otes, oze, esto, oste, osc, ","swe, soc, sco, seco, wes, west, cos, cost, ssoc, stoc, swee, scot, sew, "
+●,●,●,,,●,,●,,,coast,,
+,,,●,,●,,●,,its,,"ist, its, ks, iz, isti, isit, ists, itis, ","sti, sk, sit, sist, tis, siti, ski, zi, tsi, tist, sitt, stit, "
+●,,,●,,●,,●,,ask,task,"ask, ista, past, iza, azi, izat, atis, asti, asks, aski, pts, ","sati, spit, zati, stai, stak, task, stia, sak, sita, "
+,●,,●,,●,,●,,,sky,"osit, isto, yst, oks, ooks, izo, osti, isky, ","wis, stio, syst, sity, sty, swi, sky, zy, swit, sito, twis, wist, "
+●,●,,●,,●,,●,,post,stop,,
+,,●,●,,●,,●,,,success,"ust, iste, esti, ize, uest, kes, isc, uts, ices, ","suc, stu, ske, ties, cus, sic, sci, cis, succ, stic, cks, "
+●,,●,●,,●,,●,,escape,speak,,
+,●,●,●,,●,,●,,,weeks,,
+●,●,●,●,,●,,●,,opposite,spoke,,
+,,,,●,●,,●,,,,,"ds, tm, hts, ths, dm, sd, stm, mst, dsh, dds, dst, mt, mth, htm, thm, hst, thst, sht, sth, "
+●,,,,●,●,,●,,adam,sad,"adm, ads, adam, amaz, atm, ","mat, mad, matt, dam, mast, sad, shad, msta, maz, tma, sda, stma, tmas, d-, hast, "
+,●,,,●,●,,●,,,most,"ods, oods, ","most, mot, thos, wom, show, moth, tom, dom, mod, whom, whos, stom, shot, host, dows, bst, doz, ttom, "
+●,●,,,●,●,,●,,,thomas,,
+,,●,,●,●,,●,,,them,"emed, ","them, sed, med, des, met, thes, meth, tem, ssed, shed, sch, sted, tme, meet, ches, dem, zed, desc, stem, "
+●,,●,,●,●,,●,,,made,,
+,●,●,,●,●,,●,,,those,,
+●,●,●,,●,●,,●,,,became,,
+,,,●,●,●,,●,,,this,"ids, kids, imit, ","this, tim, sid, dis, mit, dist, hist, mid, dmi, tsid, mist, mitt, midd, tish, mmit, tisf, mik, "
+●,,,●,●,●,,●,,,said,,
+,●,,●,●,●,,●,,,books,,
+●,●,,●,●,●,,●,,,days,,
+,,●,●,●,●,,●,,just,time,,
+●,,●,●,●,●,,●,,asked,make,,
+,●,●,●,●,●,,●,,outside,sometimes,,
+●,●,●,●,●,●,,●,,,because,,
+,,,,,,●,●,l,,,,
+●,,,,,,●,●,,all,,"al, all, 's, als, ans, 'l, 'll, asn, asn', ","la, lan, nal, las, sn', san, lla, lass, nall, n's, sla, "
+,●,,,,,●,●,,,soon,"ol, ons, onl, oll, ool, olo, ollo, ols, ","lo, loo, lon, son, los, llo, lso, sol, soon, slo, sons, sq, "
+●,●,,,,,●,●,,also,,"onal, also, alo, alon, ason, allo, olla, oal, ola, oals, on's, o's, osal, olan, o-n, ","sona, loa, sola, son', loan, "
+,,●,,,,●,●,,else,seen,"el, ell, ens, eel, ele, els, ","le, sel, lle, les, nes, sen, ves, ness, vel, len, less, lv, nse, lve, "
+●,,●,,,,●,●,,,leave,"eal, alle, e's, ale, ela, eall, eans, esn', avel, e'l, e'll, aves, ","lea, leas, val, leav, lean, sav, lane, vas, "
+,●,●,,,,●,●,,ones,love,"ole, elo, olle, ones, olv, olve, ello, oesn, onse, olen, evol, ","lov, love, lose, vol, lone, velo, volv, nvol, sov, "
+●,●,●,,,,●,●,,alone,,,
+,,,●,,,●,●,,ill,six,"il, ill, ins, ili, illi, insi, inis, xis, ","li, lin, sin, lli, nsi, lis, llin, nis, sil, ssin, six, sli, "
+●,,,●,,,●,●,,i'll,lips,"pl, pla, ial, ali, ail, ains, plan, pli, inal, xpl, plai, ppl, iall, xpla, ila, ","lp, lai, lia, lain, lip, "
+,●,,●,,,●,●,,only,,"ions, only, ily, oli, onsi, ison, ilo, oil, yl, inly, ","ly, lly, nly, sion, sly, loy, lio, lion, llio, lyi, "
+●,●,,●,,,●,●,,play,lay,,
+,,●,●,,,●,●,,unless,live,"ul, ile, eli, ines, ull, usin, elie, uil, elli, elin, ","lu, lie, liv, live, vis, line, visi, lue, liev, sine, "
+●,,●,●,,,●,●,,please,value,,
+,●,●,●,,,●,●,,online,soul,,
+●,●,●,●,,,●,●,,people,,,
+,,,,●,,●,●,,,,,"gs, gl, ngs, ngl, lm, nm, hl, nsh, mn, ghl, ggl, gm, lg, ml, gns, sg, ghs, gnm, lsh, ggs, "
+●,,,,●,,●,●,,,man,"'m, alm, ","man, mal, hal, nam, mag, gla, mall, hall, smal, mana, shal, gam, glan, mann, mman, sag, glas, lang, "
+,●,,,●,,●,●,,,long,"obl, olog, onsh, onom, ","bl, mon, long, hol, hool, blo, lmo, lmos, log, mong, mbl, mmon, nom, bloo, gol, glo, "
+●,●,,,●,,●,●,,along,goals,,
+,,●,,●,,●,●,,,men,"emen, engl, ","men, hel, msel, ges, lem, leg, gle, nme, nmen, ngle, vem, lege, gges, mel, hell, leng, veme, lleg, "
+●,,●,,●,,●,●,,,name,,
+,●,●,,●,,●,●,,,someone,,
+●,●,●,,●,,●,●,,able,,,
+,,,●,●,,●,●,,,sign,"ings, ","min, lf, hil, mil, fl, ling, sing, lif, lig, sig, ligh, mig, migh, ming, sign, lish, mili, nish, fil, "
+●,,,●,●,,●,●,,i'm,half,,
+,●,,●,●,,●,●,,,bill,,
+●,●,,●,●,,●,●,,,many,,
+,,●,●,●,,●,●,,,life,,
+●,,●,●,●,,●,●,,example,help,,
+,●,●,●,●,,●,●,,enemy,business,,
+●,●,●,●,●,,●,●,,possible,,,
+,,,,,●,●,●,,,,,"rs, tl, str, rl, lt, rst, nts, nst, ttl, ntl, rts, lr, nstr, rns, rls, stl, lts, rtl, nz, sr, "
+●,,,,,●,●,●,,,last,"ars, arl, alt, at's, alr, ants, ","lat, t's, tal, lar, stan, ral, star, stra, sn't, last, nsta, r's, rsta, ras, "
+,●,,,,●,●,●,,,lot,"ors, orl, owl, ","low, llow, stor, rso, rson, worl, ros, lw, tol, rol, lot, lor, sor, ross, wl, nsw, stro, "
+●,●,,,,●,●,●,,,wasn't,,
+,,●,,,●,●,●,,,tell,"ers, ents, ","res, cl, tle, tel, rse, ser, ttle, rel, let, ress, cle, ster, rest, tell, serv, sent, rese, stre, "
+●,,●,,,●,●,●,,,later,,
+,●,●,,,●,●,●,,,well,,
+●,●,●,,,●,●,●,,across,reason,,
+,,,●,,●,●,●,,,still,"irs, irst, inst, ittl, ilit, irl, kil, kill, ","lik, lit, til, ris, lk, litt, till, stil, stin, list, ntil, sir, "
+●,,,●,,●,●,●,,it's,talk,,
+,●,,●,,●,●,●,,,will,,
+●,●,,●,,●,●,●,,always,,,
+,,●,●,,●,●,●,,,like,,
+●,,●,●,,●,●,●,,place,spent,,
+,●,●,●,,●,●,●,,question,course,,
+●,●,●,●,,●,●,●,,years,really,,
+,,,,●,●,●,●,,,mr,,"ld, rm, nds, dl, rds, rld, mr, ldn, lth, rms, ldr, ghts, ndl, mrs, nths, rsh, ddl, rtm, rnm, htl, "
+●,,,,●,●,●,●,,arms,that's,,
+,●,,,●,●,●,●,,old,world,,
+●,●,,,●,●,●,●,,almost,woman,,
+,,●,,●,●,●,●,,,themselves,,
+●,,●,,●,●,●,●,,,called,,
+,●,●,,●,●,●,●,,,more,,
+●,●,●,,●,●,●,●,,allowed,table,,
+,,,●,●,●,●,●,,,first,,
+●,,,●,●,●,●,●,,against,making,,
+,●,,●,●,●,●,●,,,from,,
+●,●,,●,●,●,●,●,,important,military,,
+,,●,●,●,●,●,●,,itself,left,,
+●,,●,●,●,●,●,●,,perhaps,market,,
+,●,●,●,●,●,●,●,,,would,,

@@ -8,6 +8,12 @@ from kmk.keys import KC, FIRST_KMK_INTERNAL_KEY
 
 from kmk.modules import Module
 
+class ShiftState:
+    # no enum module in circuitpython :(
+    NONE = 0
+    ONE_SHOT = 1
+    CAPS_WORD = 2
+
 class AsetniopCombo(namedtuple('AsetniopCombo', ['keys', 'base', 'left_word', 'right_word', 'left_partials', 'right_partials'])):
     def __init__(self, keys, base, left_word=None, right_word=None, left_partials=None, right_partials=None):
         super().__init__(keys, base, left_word, right_word, left_partials, right_partials)
@@ -18,7 +24,7 @@ class Asetniop(Module):
         self._active = []
         self._held = []
         self._first = None
-        self._shift = 0
+        self._shift = ShiftState.NONE
 
     def during_bootup(self, keyboard):
         self.reset(keyboard)
@@ -53,7 +59,7 @@ class Asetniop(Module):
         if key == KC.LSFT:
             self._shift += 1
             if self._shift > 2:
-                self._shift = 0
+                self._shift = ShiftState.NONE
             print('press', key, self._shift)
             return key if self._shift else None
         if not self._active:
@@ -125,22 +131,22 @@ class Asetniop(Module):
             keyboard.pre_process_key(key, False)
             self.reset(keyboard)
             return
-        if self._shift == 2:
+        if self._shift == ShiftState.CAPS_WORD:
             if key.code >= KC.A.code and key.code <= KC.Z.code:
                 pass
             elif key.code in [KC.MINUS.code, KC.BSPC.code]:
                 pass
             else:
                 keyboard.process_key(KC.LSFT, False)
-                self._shift = 0
+                self._shift = ShiftState.NONE
         keyboard.process_key(key, True)
         keyboard._send_hid()
         keyboard.process_key(key, False)
         keyboard._send_hid()
-        if self._shift == 1:
+        if self._shift == ShiftState.ONE_SHOT:
             keyboard.process_key(KC.LSFT, False)
             keyboard._send_hid()
-            self._shift = 0
+            self._shift = ShiftState.NONE
 
     def reset(self, keyboard):
         self._active = []
