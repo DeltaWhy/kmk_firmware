@@ -2,11 +2,13 @@ import board
 
 import kb
 
+from kmk.extensions.media_keys import MediaKeys
 from kmk.keys import KC
 from kmk.modules.combos import Combos, Sequence
 from kmk.modules.dynamic_sequences import DynamicSequences
 from kmk.modules.encoder import EncoderHandler
 from kmk.modules.layers import Layers
+from kmk.modules.mouse_keys import MouseKeys
 from kmk.modules.oneshot import OneShot
 
 combos = Combos()
@@ -18,17 +20,23 @@ dyn_seq = DynamicSequences(
 )
 layers = Layers()
 oneshot = OneShot()
+media_keys = MediaKeys()
+
 encoder_handler = EncoderHandler()
 encoder_handler.pins = kb.encoder_pins
-encoder_handler.map = [ ((KC.A, KC.B), (KC.C, KC.D)) ]
 
 keyboard = kb.KMKKeyboard()
 keyboard.modules = [combos, dyn_seq, layers, oneshot, encoder_handler]
+keyboard.modules.append(MouseKeys())
+keyboard.extensions = [media_keys]
 keyboard.debug_enabled = False
 
 # Convenience variables for the Keymap
 _______ = KC.TRNS
 xxxxxxx = KC.NO
+
+ZOOM_IN = KC.LCTRL(KC.EQUAL)
+ZOOM_OUT = KC.LCTRL(KC.MINUS)
 
 L1_TAB = KC.LT(1, KC.TAB, prefer_hold=True)
 L2_ENT = KC.LT(2, KC.ENT, prefer_hold=True)
@@ -68,6 +76,15 @@ keyboard.keymap = [
         _______, SEQ_STP, _______, _______, _______, _______,          _______, _______, _______, _______,  _______, _______,
                  _______,          _______, _______, _______,          _______, _______, _______,           _______, 
     ],
+]
+
+encoder_handler.map = [
+    ((KC.VOLD, KC.VOLU, KC.MUTE), (KC.MW_UP, KC.MW_DN, _______)),  # Layer 1
+    ((ZOOM_OUT, ZOOM_IN, _______), (KC.UP, KC.DOWN, _______)),  # Layer 2
+    ((_______, _______, _______), (_______, _______, _______)),  # Layer 3
+    ((_______, _______, _______), (_______, _______, _______)),  # Layer 4
+    ((_______, _______, _______), (_______, _______, _______)),  # Layer 5
+    ((_______, _______, _______), (_______, _______, _______)),  # Layer 6
 ]
 
 if __name__ == '__main__':
